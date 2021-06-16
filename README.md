@@ -1,4 +1,4 @@
-# Jogo da memória
+# Jogo da Dinossaure
 Jogo criado no bootcamp [JAVASCRIPT_FOR_GAMING] da [Digital Innovation One](https://digitalinnovation.one).
 
 # Descrição do projeto
